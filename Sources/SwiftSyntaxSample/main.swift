@@ -1,0 +1,1 @@
+SwiftSyntaxSample.main()
